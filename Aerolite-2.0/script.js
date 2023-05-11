@@ -65,3 +65,4 @@ anchoPage();
 document.getElementById("Ventiladorgira").addEventListener("click", function() {
     this.classList.toggle("rotate");
   });
+
